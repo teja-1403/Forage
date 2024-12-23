@@ -119,3 +119,8 @@ In this task, you will prepare to present your findings. You will be presenting 
 Here is task
 
 Film a 5 to 10-minute video presentation outlining your findings from the previous task. Upload it below once done. Remember to not be too technical!
+
+# 
+📣 Feel free to have a look at all the files in this repository !🤗
+
+❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/issues)! 👈
