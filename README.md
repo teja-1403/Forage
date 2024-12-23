@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/cd673bcb-c111-4623-8a6e-efba98fcf51b)
 
-Three tasks make up this virtual experience programme.
+Four tasks make up this virtual experience programme.
 
 1: SQL for Data Scientists
 
